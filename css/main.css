@@ -12,5 +12,8 @@ h1 {
   font-family: 'Bevan', cursive;
   color: #ffffff;
   text-align: center;
-  font-size:
+}
+
+div {
+  background-color: #595652;
 }
