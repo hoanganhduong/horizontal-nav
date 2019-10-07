@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background-color: #79756f;
 }
 
 *, *::before, *::after {
@@ -8,4 +9,5 @@ html {
 
 h1 {
   font-family: 'Bevan', cursive;
+  color: #ffffff;
 }
