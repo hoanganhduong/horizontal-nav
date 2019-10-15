@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #dbd6cf;
   line-height: 1.5;
+  font-family: 'Bevan', cursive;
 }
 
 *, *::before, *::after {
@@ -12,11 +13,16 @@ h1 {
   font-family: 'Bevan', cursive;
   color: #ffffff;
   text-align: center;
+  padding: .5em .75em;
+  margin: .3em;
 }
 
 div {
   background-color: #79756f;
-  padding: .6em;
-  margin: .3em;
+  padding: 0;
+  margin: 0;
+}
 
+li a {
+  background-color: #713837;
 }
