@@ -37,6 +37,8 @@ li a {
   margin: .3em;
   border-radius: 5px;
   font-family: sans-serif;
+  text-align: center;
+  font-size: 1em;
 }
 
 nav a:hover {
