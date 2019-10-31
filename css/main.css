@@ -12,18 +12,20 @@ h1 {
   font-family: 'Bevan', cursive;
   color: #ffffff;
   text-align: center;
-  padding: .6em;
+  padding: 0;
   margin: .3em;
 }
 
-div {
+body {
   background-color: #79756f;
-  padding: 0;
+  padding: .6em;
   margin: 0;
+  border-color: #595652;
 }
 
 nav li {
   list-style-type: none;
+  max-width: 20em;
 }
 li a {
   background-color: #713837;
@@ -34,4 +36,8 @@ li a {
   margin: .3em;
   border-radius: 5px;
   font-family: sans-serif;
+}
+
+nav a:hover {
+  background-color: #f33;
 }
