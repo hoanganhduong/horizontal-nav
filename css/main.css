@@ -18,6 +18,8 @@ h1 {
 
 body {
   background-color: #79756f;
+  padding: .6em;
+  margin: 0;
 }
 
 nav li {
