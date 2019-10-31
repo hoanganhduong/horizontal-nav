@@ -41,6 +41,10 @@ li a {
   font-size: 1em;
 }
 
+nav ul {
+  text-align: center;
+}
+
 nav a:hover {
   background-color: #f33;
 }
